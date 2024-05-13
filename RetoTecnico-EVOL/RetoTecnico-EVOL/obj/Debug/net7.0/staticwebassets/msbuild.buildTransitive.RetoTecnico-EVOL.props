@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RetoTecnico-EVOL.props" />
+</Project>

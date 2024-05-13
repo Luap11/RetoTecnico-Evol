@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\controllers\\evolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\controllers\\evolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\services\\services\\evolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\services\\services\\evolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\services\\interfaces\\ievolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\services\\interfaces\\ievolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\viewmodels\\exchangeratesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\viewmodels\\exchangeratesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\models\\exchangerates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\models\\exchangerates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\helpers\\jwtconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\helpers\\jwtconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\models\\context\\evoldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\models\\context\\evoldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|c:\\users\\pminope.apdayc\\desktop\\reto\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol\\retotecnico-evol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8637FFB1-19DB-4B3D-8501-F536471CDEDF}|RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj|solutionrelative:retotecnico-evol\\retotecnico-evol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:49:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvolService.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Services\\Services\\EvolService.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\Services\\Services\\EvolService.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Services\\Services\\EvolService.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\Services\\Services\\EvolService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:13:40.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvolController.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Controllers\\EvolController.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\Controllers\\EvolController.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Controllers\\EvolController.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\Controllers\\EvolController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:07:22.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExchangeRatesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\ViewModels\\ExchangeRatesViewModel.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\ViewModels\\ExchangeRatesViewModel.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\ViewModels\\ExchangeRatesViewModel.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\ViewModels\\ExchangeRatesViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wBAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:35:37.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtConfigurator.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Helpers\\JwtConfigurator.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\Helpers\\JwtConfigurator.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Helpers\\JwtConfigurator.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\Helpers\\JwtConfigurator.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:48:27.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExchangeRates.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Models\\ExchangeRates.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\Models\\ExchangeRates.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Models\\ExchangeRates.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\Models\\ExchangeRates.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:19:42.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEvolService.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Services\\Interfaces\\IEvolService.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\Services\\Interfaces\\IEvolService.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Services\\Interfaces\\IEvolService.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\Services\\Interfaces\\IEvolService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:12:47.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Models\\User.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:18:09.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Program.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\Program.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Program.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:23:41.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EvolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Models\\Context\\EvolDbContext.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\Models\\Context\\EvolDbContext.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\Models\\Context\\EvolDbContext.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\Models\\Context\\EvolDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:20:14.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\appsettings.json",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\appsettings.json",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\appsettings.json",
+              "RelativeToolTip": "RetoTecnico-EVOL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T06:54:35.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "RetoTecnico-EVOL\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:20:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RetoTecnico-EVOL.csproj",
+              "DocumentMoniker": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj",
+              "RelativeDocumentMoniker": "RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj",
+              "ToolTip": "C:\\Users\\pminope.APDAYC\\Desktop\\Reto\\RetoTecnico-Evol\\RetoTecnico-EVOL\\RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj",
+              "RelativeToolTip": "RetoTecnico-EVOL\\RetoTecnico-EVOL.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T05:46:47.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
